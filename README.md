@@ -1,2 +1,12 @@
-# tics
-1ºBAC programación en python
+# TICS
+##### 1ºBAC 
+---
+programación en **Python3**
+
+- tarefas
+- xogos
+
+Teño que teclear:
+
+``` python3 tarefa.py ```   
+
